@@ -1,4 +1,4 @@
-export const vertexshader = () =>
+export const vertexshader = () =>`
   // Amount of transparency for line, calculated in Animate
   attribute float scale;
 
@@ -7,4 +7,4 @@ export const vertexshader = () =>
     gl_PointSize = scale * ( 300.0 / - mvPosition.z );
     gl_Position = projectionMatrix * mvPosition;
   }
-;
+`;
