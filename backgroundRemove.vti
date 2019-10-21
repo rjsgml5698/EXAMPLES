@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<VTKFile type="ImageData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <ImageData WholeExtent="0 255 0 255 0 0" Origin="0 0 0" Spacing="1 1 1">
+  <Piece Extent="0 255 0 255 0 0">
+    <PointData Scalars="PNGImage">
+      <DataArray type="UInt8" Name="PNGImage" NumberOfComponents="4" format="binary" RangeMin="128" RangeMax="128">
+        CAAAAACAAAAAAAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA=eJztwwENAAAMw6BKv/QLGSTUlaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOf4OEAPF4nO3DAQ0AAAzDoEq/9AsZJNSVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqo5/g4QA8Xic7cMBDQAADMOgSr/0Cxkk1JWqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqjn+DhADxeJztwwENAAAMw6BKv/QLGSTUlaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOf4OEAPF4nO3DAQ0AAAzDoEq/9AsZJNSVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqo5/g4QA8Xic7cMBDQAADMOgSr/0Cxkk1JWqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqjn+DhADxeJztwwENAAAMw6BKv/QLGSTUlaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqOf4OEAPF4nO3DAQ0AAAzDoEq/9AsZJNSVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqo5/g4QA8Q==
+      </DataArray>
+    </PointData>
+    <CellData>
+    </CellData>
+  </Piece>
+  </ImageData>
+</VTKFile>
