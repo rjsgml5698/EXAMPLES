@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                7016.417919178595,
+                -5086.012217168361
+              ],
+              [
+                7016.417919178595,
+                -4081.438359167615
+              ],
+              [
+                8164.502328322305,
+                -4081.438359167615
+              ],
+              [
+                8164.502328322305,
+                -5086.012217168361
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "annotationType": "rectangle",
+          "name": "Rectangle 1",
+          "annotationId": 1,
+          "fill": true,
+          "fillColor": "#00ff00",
+          "fillOpacity": 0.25,
+          "stroke": true,
+          "strokeColor": "#000000",
+          "strokeOpacity": 1,
+          "strokeWidth": 3
+        }
+      }
+    ]
+  }
