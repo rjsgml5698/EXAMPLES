@@ -34,7 +34,7 @@
               [
                 9374.696539300327,
                 5477.735116795975
-              ],
+              ]
             ]
           ]
         },
@@ -50,9 +50,6 @@
           "strokeOpacity": 1,
           "strokeWidth": 3
         },
-        "media": [
-          "https://raw.githubusercontent.com/rjsgml5698/EXAMPLES/master/087.png"
-        ]
       }
     ]
   }
