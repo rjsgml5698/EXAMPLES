@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                6849.1962038216125,
+                9459.170951462069
+              ],
+              [
+                6849.1962038216125,
+                5894.368395714138
+              ]
+            ]
+          ]
+        },
+        "properties": {
+          "annotationType": "rectangle",
+          "name": "Rectangle 1",
+          "annotationId": 1,
+          "fill": true,
+          "fillColor": "#00ff00",
+          "fillOpacity": 0.25,
+          "stroke": true,
+          "strokeColor": "#000000",
+          "strokeOpacity": 1,
+          "strokeWidth": 3
+        },
+        "media": [
+          "https://raw.githubusercontent.com/rjsgml5698/EXAMPLES/master/087.png"
+        ]
+      }
+    ]
+  }
